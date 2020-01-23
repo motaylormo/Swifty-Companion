@@ -7,7 +7,7 @@
 Basically the same instructions OAuth2 gives, just a few minor differances for the school computers
 
 1. Install CocoaPods with brew, so the school computers allow it: `brew install cocoapods`
-2. `pod init _myapp_.xcodeproj`
+2. `pod init yourapp.xcodeproj` with your app's name
 3. Add to Podfile:
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
