@@ -9,7 +9,7 @@ Basically the same instructions OAuth2 gives, just a few minor differances for t
 1. Install CocoaPods with brew, so the school computers allow it: `brew install cocoapods`
 2. `pod init _myapp_.xcodeproj`
 3. Add to Podfile:
-```
+```ruby
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
 use_frameworks!
